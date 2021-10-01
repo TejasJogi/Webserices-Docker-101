@@ -14,7 +14,7 @@ I deployed this project in docker container now anyone can access this webservic
 Project is created with:
 * Python version: 3.9.6
 * Cherrypy version: 18.6.1
-* Dockerr version: 20.10.8
+* Docker version: 20.10.8
 	
 ## Deployment
 
