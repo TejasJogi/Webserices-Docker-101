@@ -22,7 +22,10 @@ To deploy this project run
 
 ```bash
   $ docker run -dp 5000:5000 tejasjogi/webapp:mywebapp
+```
+OR
 
+```
   $ sudo docker run -dp 5000:5000 tejasjogi/webapp:mywebapp
 ```
 
